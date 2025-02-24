@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Replace "screenshots/logo.jpg" with your actual logo or main image -->
-  <img src="screenshots/1.png" alt="The Patronist" />
+  <img src="Images/1.png" alt="The Patronist" />
 </p>
 
 ## Content
