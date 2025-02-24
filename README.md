@@ -13,11 +13,13 @@
 ---
 
 ## Description
-**The Patronist landing page** is the official online presence for our innovative fashion design software. It provides an overview of the application's features, benefits, and use cases, helping users understand how The Patronist simplifies pattern creation for designers of all skill levels.
+**The Patronist landing page** is the official online presence for our innovative fashion design software.
 
-This landing page serves as the primary gateway for potential users, offering a sleek design, interactive elements, and easy navigation to explore the software's capabilities.
+It provides an overview of the application's features, benefits, and use cases, helping users understand how The Patronist simplifies pattern creation for designers of all skill levels.
+
+This landing page serves as the primary gateway for potential users, providing a sleek design, interactive elements, and easy navigation to explore the software's capabilities.
+
 ---
-
 ## Features
 
 - **Responsive Design:**
